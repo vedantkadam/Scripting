@@ -1,0 +1,15 @@
+1. vim test.sh
+
+2. i to insert , o to start editing in line below cursor , shift+o for above
+
+3. escape to save or quit the type :wq (write and quit), :q!(exit without saving)
+
+4. shift+g to go to last line , gg to go on top
+
+5. dG to delete all lines below cursor
+
+6. x to delete sigle character 
+   r to replace single character
+   Place the cursor on the line you need to delete. Press dd . This will delete the current line.
+
+7. /vedant to search in edior (in escape mode)
