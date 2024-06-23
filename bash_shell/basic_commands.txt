@@ -1,0 +1,23 @@
+We can access bash using WSL with triggers in built ubuntu anyways...
+
+1. using vim editor (https://phoenixnap.com/kb/how-to-vim-save-quit-exit)
+vim file.txt - creates a file in the directory and enter in it
+- i to start inserting
+- esc to exit the inserting
+- (shift) :wq (to write the file and quit it)
+
+2. touch file.txt (create file)
+
+3. cat file.txt (reads file)
+
+4. head / tail file.txt (reads bottom or top lines)
+
+5. chmod perms command list here - (https://www.freecodecamp.org/news/file-permissions-in-linux-chmod-command-explained/)
+
+6. grep command to filter out things for eg
+ls -l usr/bin | grep bash
+
+
+
+
+
